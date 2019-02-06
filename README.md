@@ -1,5 +1,7 @@
 
-# Architecture
+This bot comes from the Data and AI Bootcamp found at https://azure.github.io/LearnAI-Bootcamp/
+
+## Architecture
 
 ![Architecture Diagram](./images/AI_Immersion_Arch.png)
 
